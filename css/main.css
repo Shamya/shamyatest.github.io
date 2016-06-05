@@ -49,3 +49,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img[alt=Shamya] { width: 30%; float: left }
