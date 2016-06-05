@@ -2,6 +2,6 @@
 layout: default
 title: About me
 ---
-Hello
-1. hi
-2. hello
+
+![Shamya](/images/shamya.jpg){:style="width: 30%; float: left; border: solid; margin: 0 10px 0 0;"}
+
