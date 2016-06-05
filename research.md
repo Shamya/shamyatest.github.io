@@ -9,5 +9,5 @@ Quoting my advisor [Prof Bevelery Woolf](http://althea.cs.umass.edu/bpw/bpwindex
 ###Emotion Detection
 Studies suggest that an emotional state of a student interacts with his/her engagement and learning. An accurate detector of negative emotional states would allow for a variety of improved responses in a tutoring system for disengagement repair. Most of the work on automatic affect detection relies on the data from several sensors. Practically, it would be unreasonable to deploy these sensors in an actual classroom. I aim to build a cost effective solution in this context of teaching.
 	
-###Cutltural Sensitization</h3>
+###Cutltural Sensitization
 Culturally sensitive tutors enhance learning because culture enables us to create a balance between academic abstractions and sociocultural realities. As [Prof Geneva Gay](https://education.uw.edu/people/faculty/ggay) realized, adapting culturally familiar styles and content in teaching and incorporating social experiences into curriculum and instruction will increase a student’s ability to engage with a tutor and hence improve student performance. My work should aid the children in my country to attain academic achievement without without compromising their ethnic and cultural identity.
