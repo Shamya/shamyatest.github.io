@@ -56,3 +56,5 @@ ul.posts li {
 }
 
 img[alt=Shamya] { width: 30%; float: left }
+#section1 { width: 43%; float:left; }
+#section2 { width: 43%; float:right; }
