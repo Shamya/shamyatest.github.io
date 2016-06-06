@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: webpage
 title: Shamya Karumbaiah
 ---
 ##Vision
