@@ -42,9 +42,10 @@ p {
     font-size: 1.1em;
     line-height: 1.3em;
     color: #333;
-}footer {
-     border-top: 1px solid #d5d5d5; 
-    margin-top: 3px
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
