@@ -42,10 +42,20 @@ p {
     line-height: 1.3em;
     color: #333;
 }
-footer {
-    /* border-top: 1px solid #d5d5d5; */
+/*footer {
+     border-top: 1px solid #d5d5d5; 
     margin-top: 3px
     font-size: .8em;
+}*/
+.footer {
+  font-size: .8em;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
 
 ul.posts { 
