@@ -1,0 +1,14 @@
+---
+layout: post
+title: "California Highway 1 Drive"
+date: 2014-09-28
+---
+One of the most spectacular drives one can go on. The pacific ocean promises to never leave by your side, throwing breathtaking views one after the other. Winding Roads carved out of huge hills - Beautiful bridges connecting the unconnected - Numerous state parks to choose from - A chance to encounter variety of sea life in their natural habitat.
+
+Starting at Monterey you can sight walruses playing hide and seek between the ships parked at Fisherman's Wharf harbor and a swarm of divers joining them under sea at Cannery Row. The next spot is one of my favorites of the day - a village named Carmel. Quaintly crafted houses, the historical Tor House and the beautiful Mission San Carlos. And never to miss drive on Scenic Road loop kissing the ocean.
+
+Just a 5M drive from Carmel is Point Lobos ecological reserve. A place to which I wish I would drive early in the morning with a book and sit the whole day until sunset. Good long trails to walk, best spots to relax and listen to the ocean roaring at calm. And if you are a diver or a marine enthusiast, this park would be an undersea ecological reserve of your interest. From here, you are on the drive of your lifetime. A 90 mile drive to our destination Hearst Castle. 
+
+There are plenty of opportunities to stop and click a perfect picture at the vista points and enjoy some awe inspiring views of the pacific ocean. In the order, Soberanes point to spot sea otters (we were unlucky), picture perfect bixby bridge, the lighthouse (3 hour tour if you can afford), Pfeiffer Big Sur park for camping, the rooftop resto Nepenthe terrace (little expensive), Lucia-Plaskett-Gorda-Ragged Points, Piedras Blancas Lighthouse at San Simeon - closest you can get to Elephant seals in their natural habitat and hearst castle (2 hour tour if you can afford). You can also go up to Morro bay or Los Angeles :) 
+
+Though this trip was mostly a drive and couldn't accomodate site tours at most of the places, its worth planning for 2 days including them. This 100 mile stretch (total 350 mile road trip) will indeed remain a drive of the lifetime !
