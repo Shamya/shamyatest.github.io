@@ -4,6 +4,7 @@ title: "Breaks and Bumps and Broken Bones"
 date: 2015-05-18
 ---
 
+
 The journey to a trek basecamp in itself is quite rewarding. This is a constant pattern I have observed in most of them, especially reaching a Himalayan trailhead. Hope you would acknowledge experiencing some of these - sometimes even on the visits to your village in a ghat.
 
 Close to the train or bus station of the nearest town, you usually find this modest looking local bus with a perfect driver-conductor pair luring the locals to board their bus. Only when the bus is out of the town boundaries, is when this driver transforms to become Michael Schumacher. From then on, you just trust your life in the hands of this under aged, under nourished chap who is no less than an F1 racer - just that he would be racing on the broken rocky roads of the hills. If there is something soothing, it’s just the romantic pahadi songs that he bestows upon us with his DJ effects.
