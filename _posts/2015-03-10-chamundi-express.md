@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chamundi Express"
-date: 2013-12-10 
+date: 2015-03-10 
 place: Mysore, India
 ---
 
