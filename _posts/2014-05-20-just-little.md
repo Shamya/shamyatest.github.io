@@ -2,6 +2,7 @@
 layout: post
 title: "Just a little more..."
 date: 2014-05-20
+place: My balcony
 ---
 
 The day i learnt to enjoy the droplets on my window, i forgot the joy of jumping into the rain.
