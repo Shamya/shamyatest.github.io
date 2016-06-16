@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "SECMOL"
-date: 2014-02-12 || Ladhak, India
+date: 2014-02-12 
+place: Ladhak, India
 ---
 
 As you drive on NH1 after the Leh military area, you see a humble board that read "Phey Village 5.5 KM". Taking a left, you enter a beautiful world guarded by the mighty Ladakh mountains and portrayed just in white-brown except for the glimpse of a few colorful Buddhist prayer flags.In this freezing winter, a warm cozy camp waits for you to unleash the magic of the indigenous use of natural resources.
