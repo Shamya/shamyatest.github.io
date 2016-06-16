@@ -2,6 +2,7 @@
 layout: post
 title: "To err is human - To forgive is divine - To bargain is me"
 date: 2014-07-24
+place: India
 ---
 
 I always considered bargaining as one of my fundamental rights - never missing a chance to exercise it. Handcrafts always disappointed me in this aspect.
