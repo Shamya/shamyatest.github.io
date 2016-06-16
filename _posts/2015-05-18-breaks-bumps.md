@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Breaks and Bumps and Broken Bones"
-date: 2015-05-18 || India
+date: 2015-05-18 
+place: India
 ---
 
 
