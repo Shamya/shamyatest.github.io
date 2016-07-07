@@ -19,7 +19,7 @@ nav ul li, footer ul li{
     display: inline;
     margin-right: 20px;
 }
-header{
+header ul li{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
