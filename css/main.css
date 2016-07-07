@@ -20,7 +20,13 @@ nav ul li, footer ul li{
     margin-right: 20px;
 }
 
-header.info {
+header.info ul li{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style: none;
+    display: inline;
+
+}
+header.info ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     display: inline;
