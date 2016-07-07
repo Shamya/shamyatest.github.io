@@ -63,12 +63,12 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+div.posts ul { 
     margin: 20px auto 40px; 
     font-size: 1.3em;
 }
 
-ul.posts li {
+div.posts ul li {
     list-style: none;
 }
 
