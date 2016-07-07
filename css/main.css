@@ -28,6 +28,7 @@ header ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     display: inline;
+    padding: 0px;
 }
 a {
     text-decoration: none;
