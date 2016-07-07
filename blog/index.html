@@ -4,11 +4,9 @@ title: Blog
 ---
 <h1>{{ page.title }}</h1>
 <p><a href = "http://shamya.github.io/blog/atom.xml">Subscribe</a></p>
-<div class="posts"></div>
-<ul >
+<ul class="posts">
 
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></br></li>
   {% endfor %}
 </ul>
-</div>
