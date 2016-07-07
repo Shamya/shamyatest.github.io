@@ -21,6 +21,7 @@ nav ul li, footer ul li{
 }
 header ul li{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style: none;
 }
 
 a {
