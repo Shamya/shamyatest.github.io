@@ -19,6 +19,9 @@ nav ul li, footer ul li{
     display: inline;
     margin-right: 20px;
 }
+header{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 
 a {
     text-decoration: none;
