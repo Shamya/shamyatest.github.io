@@ -19,13 +19,13 @@ nav ul li, footer ul li{
     display: inline;
     margin-right: 20px;
 }
-nav ul, header ul {
+header ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, header ul li {
+header ul li {
     display: inline;
     margin-right: 20px;
 }
