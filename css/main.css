@@ -23,12 +23,14 @@ header ul li{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     display: inline;
+    font-size: .8em;
 }
 header ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     display: inline;
     padding: 0px;
+    font-size: .8em;
 }
 a {
     text-decoration: none;
