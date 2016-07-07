@@ -24,7 +24,11 @@ header ul li{
     list-style: none;
     display: inline;
 }
-
+header ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style: none;
+    display: inline;
+}
 a {
     text-decoration: none;
     color: #999;
